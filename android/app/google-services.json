@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361355710059",
+    "project_id": "spotifycleanmusic1010",
+    "storage_bucket": "spotifycleanmusic1010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361355710059:android:83cfba6c63fc5b82ec2b2e",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDa8vJaOYIaziHEY_A1j8bZ1GOFMmnVRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
